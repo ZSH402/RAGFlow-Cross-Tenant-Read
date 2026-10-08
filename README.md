@@ -357,4 +357,4 @@ Published for public reference. Vendor notification prior to wider publication i
 
 ---
 
-Please evaluate and assign a CVSS v3.1 score for this vulnerability.
+
